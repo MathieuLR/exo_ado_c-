@@ -1,0 +1,9 @@
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ADO_NET\exo_2_recherche\bin\Debug\exo_2_recherche.exe.config
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ADO_NET\exo_2_recherche\bin\Debug\exo_2_recherche.exe
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ADO_NET\exo_2_recherche\bin\Debug\exo_2_recherche.pdb
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ADO_NET\exo_2_recherche\obj\Debug\exo_2_recherche.csprojResolveAssemblyReference.cache
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ADO_NET\exo_2_recherche\obj\Debug\exo_2_recherche.Form1.resources
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ADO_NET\exo_2_recherche\obj\Debug\exo_2_recherche.Properties.Resources.resources
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ADO_NET\exo_2_recherche\obj\Debug\exo_2_recherche.csproj.GenerateResource.Cache
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ADO_NET\exo_2_recherche\obj\Debug\exo_2_recherche.exe
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ADO_NET\exo_2_recherche\obj\Debug\exo_2_recherche.pdb

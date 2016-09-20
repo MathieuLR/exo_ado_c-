@@ -1,0 +1,9 @@
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ADO_NET\exo_3_recheche_combo_list\bin\Debug\exo_3_recheche_combo_list.exe.config
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ADO_NET\exo_3_recheche_combo_list\bin\Debug\exo_3_recheche_combo_list.exe
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ADO_NET\exo_3_recheche_combo_list\bin\Debug\exo_3_recheche_combo_list.pdb
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ADO_NET\exo_3_recheche_combo_list\obj\Debug\exo_3_recheche_combo_list.csprojResolveAssemblyReference.cache
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ADO_NET\exo_3_recheche_combo_list\obj\Debug\exo_3_recheche_combo_list.Form1.resources
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ADO_NET\exo_3_recheche_combo_list\obj\Debug\exo_3_recheche_combo_list.Properties.Resources.resources
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ADO_NET\exo_3_recheche_combo_list\obj\Debug\exo_3_recheche_combo_list.csproj.GenerateResource.Cache
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ADO_NET\exo_3_recheche_combo_list\obj\Debug\exo_3_recheche_combo_list.exe
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ADO_NET\exo_3_recheche_combo_list\obj\Debug\exo_3_recheche_combo_list.pdb

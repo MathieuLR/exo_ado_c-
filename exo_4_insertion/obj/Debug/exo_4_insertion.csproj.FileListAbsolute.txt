@@ -1,0 +1,9 @@
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ADO_NET\exo_4_insertion\bin\Debug\exo_4_insertion.exe.config
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ADO_NET\exo_4_insertion\bin\Debug\exo_4_insertion.exe
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ADO_NET\exo_4_insertion\bin\Debug\exo_4_insertion.pdb
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ADO_NET\exo_4_insertion\obj\Debug\exo_4_insertion.csprojResolveAssemblyReference.cache
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ADO_NET\exo_4_insertion\obj\Debug\exo_4_insertion.Form1.resources
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ADO_NET\exo_4_insertion\obj\Debug\exo_4_insertion.Properties.Resources.resources
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ADO_NET\exo_4_insertion\obj\Debug\exo_4_insertion.csproj.GenerateResource.Cache
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ADO_NET\exo_4_insertion\obj\Debug\exo_4_insertion.exe
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\ADO_NET\exo_4_insertion\obj\Debug\exo_4_insertion.pdb
